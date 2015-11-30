@@ -8,4 +8,7 @@
 * [GoAccess](https://github.com/allinurl/goaccess)  实时Web日志分析和展现工具
 * [wego](https://github.com/schachmat/wego)  天气客户端
 * [go-colorable](https://github.com/mattn/go-colorable)  Windows下 ANSI 颜色支持
+* [Mop](https://github.com/michaeldv/mop) 股票客户端
+* [uiprogress](https://github.com/gosuri/uiprogress) 进度条UI
+* [Stack Up](https://github.com/pressly/sup)  主机分组批量执行命令工具
 
