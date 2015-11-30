@@ -12,3 +12,7 @@
 * [uiprogress](https://github.com/gosuri/uiprogress) 进度条UI
 * [Stack Up](https://github.com/pressly/sup)  主机分组批量执行命令工具
 
+## 应用类
+
+* [nes](https://github.com/fogleman/nes) NES红白机游戏模拟器
+
