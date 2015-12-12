@@ -3,22 +3,26 @@
 随着Golang的日益流行，使用Golang开发的开源项目越来越多了，这其中有很多非常好玩有趣的项目，特整理罗列，供学习参考。
 
 
-## 运维工具
+## 命令行工具
 
 * [GoAccess](https://github.com/allinurl/goaccess)  实时Web日志分析和展现工具
 * [Stack Up](https://github.com/pressly/sup)  主机分组批量执行命令工具
+* [gotty](https://github.com/yudai/gotty)  终端命令分享为WEB应用的工具
 
 
 ## 开发库
 
-* [go-colorable](https://github.com/mattn/go-colorable)  Windows下 ANSI 颜色支持
+* [termui](https://github.com/gizak/termui)  跨平台的控制台UI库
 * [uiprogress](https://github.com/gosuri/uiprogress)  进度条UI
+* [go-colorable](https://github.com/mattn/go-colorable)  Windows下 ANSI 颜色支持
+* [xterm-color-chart](https://github.com/kutuluk/xterm-color-chart) XTerm 256 色卡
 
 
 ## 日常应用
 
 * [wego](https://github.com/schachmat/wego)  天气客户端
 * [Mop](https://github.com/michaeldv/mop)  股票客户端
+* [hecate](https://github.com/evanmiller/hecate)  十六进制编辑器
 
 
 ## 经典游戏
