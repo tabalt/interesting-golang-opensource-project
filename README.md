@@ -5,7 +5,6 @@
 
 ## 命令行工具
 
-* [GoAccess](https://github.com/allinurl/goaccess)  实时Web日志分析和展现工具
 * [Stack Up](https://github.com/pressly/sup)  主机分组批量执行命令工具
 * [gotty](https://github.com/yudai/gotty)  终端命令分享为WEB应用的工具
 
