@@ -29,7 +29,7 @@
 
 * [nes](https://github.com/fogleman/nes)  NES红白机游戏模拟器
 * [gotetris](https://github.com/jjinux/gotetris)  俄罗斯方块
-* [sokoban-go](https://github.com/rn2dy/sokoban-go)  贪吃蛇
+* [sokoban-go](https://github.com/rn2dy/sokoban-go)  推箱子
 * [termloop](https://github.com/JoelOtter/termloop)  走迷宫
  
 
