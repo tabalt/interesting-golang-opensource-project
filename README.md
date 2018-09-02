@@ -7,6 +7,7 @@
 
 * [Stack Up](https://github.com/pressly/sup)  主机分组批量执行命令工具
 * [gotty](https://github.com/yudai/gotty)  终端命令分享为WEB应用的工具
+* [micro](https://github.com/zyedidia/micro) 终端文本编辑器
 
 
 ## 开发库
