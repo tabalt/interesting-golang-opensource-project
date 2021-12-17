@@ -17,6 +17,7 @@
 
 * [termui](https://github.com/gizak/termui)  跨平台的控制台UI库
 * [uiprogress](https://github.com/gosuri/uiprogress)  进度条UI
+* [progressbar](https://github.com/schollz/progressbar/)  进度条UI2
 * [color](https://github.com/fatih/color)  命令行 ANSI 颜色库
 * [xterm-color-chart](https://github.com/kutuluk/xterm-color-chart) XTerm 256 色卡
 * [ioprogress](https://github.com/mitchellh/ioprogress)  下载进度提示
